@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Bethany Bootstrap Theme</title>
+  <title>TYM QRO</title>
   <meta name="description" content="Free Bootstrap Theme by BootstrapMade.com">
   <meta name="keywords" content="free website templates, free bootstrap themes, free template, free bootstrap, free website template">  
   <link rel="stylesheet" type="text/css" href="<?= base_url(); ?>assets/styles/css/bootstrap.min.css"> 
@@ -12,15 +12,9 @@
   <link rel="stylesheet" type="text/css" href="<?= base_url(); ?>assets/styles/css/animate.css">
   <link rel="stylesheet" type="text/css" href="<?= base_url(); ?>assets/styles/css/style.css">
   <link href='https://fonts.googleapis.com/css?family=Lato:400,700,300|Open+Sans:400,600,700,300' rel='stylesheet' type='text/css'>
-  <!-- =======================================================
-    Theme Name: Bethany
-    Theme URL: https://bootstrapmade.com/bethany-free-onepage-bootstrap-theme/
-    Author: BootstrapMade.com
-    Author URL: https://bootstrapmade.com
-  ======================================================= -->
 </head>
 
-<body>
+<body style="background-color: black;">
   <!--header-->
   <header class="main-header" id="header">
     <div >

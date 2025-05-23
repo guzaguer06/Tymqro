@@ -33,16 +33,16 @@
                   <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
                   <div class="validation"></div>
                 </div>
-                <button type="submit" class="btn btn-send">Send</button>
+                <button type="submit" class="btn btn-send">Enviar</button>
               </form>
             </div>
 
           </div>
           <div class="col-md-4 col-sm-6">
-            <h3 class="cont-title">Visit Us</h3>
+            <h3 class="cont-title">Visitanos</h3>
             <div class="location-info">
-              <p class="white"><span aria-hidden="true" class="fa fa-map-marker"></span>Via Principe Amedeo 9, Torino, Italy</p>
-              <p class="white"><span aria-hidden="true" class="fa fa-phone"></span>Phone: 0039 333 12 68 347</p>
+              <p class="white"><span aria-hidden="true" class="fa fa-map-marker"></span>12 de Diciembre 1, Villas de Guadalupe, 76116 Santiago de Querétaro, Qro.</p>
+              <p class="white"><span aria-hidden="true" class="fa fa-phone"></span>Teléfono: 0039 333 12 68 347</p>
               <p class="white"><span aria-hidden="true" class="fa fa-envelope"></span>Email: <a href="" class="link-dec">hi@yourdomain.com</a></p>
             </div>
           </div>
